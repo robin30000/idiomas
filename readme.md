@@ -80,27 +80,6 @@ OK (2 tests, 6 assertions)
 
 ---
 
-## 📁 Estructura del Proyecto
-
-```
-├── main.php
-├── src/
-│   ├── Models/
-│   │   ├── Resource.php
-│   │   ├── ClassResource.php
-│   │   └── ExamResource.php
-│   └── Database/
-│       └── Connection.php
-├── tests/
-│   └── ResourceTest.php
-├── database.sql
-├── composer.json
-├── phpunit.xml
-└── .env
-```
-
----
-
 ## 📌 Notas
 
 - Sigue los estándares PSR-4 con autoload configurado en `composer.json`.
@@ -111,4 +90,4 @@ OK (2 tests, 6 assertions)
 
 ## 💡 Autor
 
-Desarrollado como prueba técnica para una startup de cursos de idiomas.
+Desarrollado Robinson castro como prueba técnica.
