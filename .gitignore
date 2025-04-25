@@ -1,0 +1,27 @@
+# Ignorar archivos y carpetas generados por Composer
+/vendor/
+/composer.lock
+
+# Ignorar archivos de configuración locales
+/.env
+
+# Ignorar directorios y archivos temporales de IDEs
+/.idea/
+/.vscode/
+
+# Ignorar archivos de caché de PHP
+/cache/
+/logs/
+
+# Ignorar archivos de pruebas y resultados de PHPUnit
+/tests/_output/
+/tests/_env.php
+
+# Archivos de logs de PHP
+*.log
+
+# Ignorar directorios generados por Composer (para autoloading)
+composer.phar
+
+# Ignorar el directorio de dependencias de PHPUnit (si no estás usando Composer)
+phpunit.phar
